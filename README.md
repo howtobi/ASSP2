@@ -22,7 +22,7 @@ I want to Partition Processed Date so I make it.
 
 ## Sample
 
-'''SQL
+'''JavaScript
 WITH MEMBER [MEASURES].[LASTSCHEMAUPDATE]
 AS ASSP2.GetCubeLastSchemaUpdateDate()
 MEMBER [MEASURES].[LASTPROCESSED]
