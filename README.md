@@ -33,8 +33,6 @@ I want to Partition Processed Date so I make it.
 
 I do not understand ASSP license.
 
-So if I make the mistake, know me.
-
-Of course, I can make decision this project's license, It will be the MIT license.
+So if there is the mistake, know me.
 
 Thank you.
